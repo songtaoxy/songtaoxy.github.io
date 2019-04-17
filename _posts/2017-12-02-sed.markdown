@@ -1,0 +1,22 @@
+---
+layout: default
+title: sed
+---
+
+# the basic introduction
+hi, this is a page for user.
+* first
+* second
+> law
+good
+principles
+
+<h2>{{ page.title }}</h2>
+
+<p>markdown doc</p>
+this is a doc, and the type of doc is markdown.
+Good.
+
+
+
+<p>{{ page.date | date_to_string }}</p>
