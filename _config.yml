@@ -60,7 +60,7 @@ kramdown:
 # disqus_username: songtaoxy
 
 # Gitalk
-# 一, github设置: (1) 勾选github-setting总的issue。(2) github.io博客地址为https://，并与gitalk中urls地址保持一致。
+# 一, github设置: (1) 勾选github-setting总的issue, 并在里面进行相关设置.(2) github.io博客地址为https://，并与gitalk中urls地址保持一致。
 # 二, gittalk 申请时设置: 
 # 1, 可以多次申请,若一次不行, 可以再次申请. 将新的id/secret填写在下面即可. 
 # 2, Homepage URL 和"Authorization callback URL" 要一致且以https开头: https://songtaoxy.github.io
