@@ -74,10 +74,13 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# 注册地址: https://tongji.baidu.com/web/welcome/login 类型选择: 百度统计-站长版
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 352e7cd9a171838487b92a25d98520f3
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# 注册地址: https://analytics.google.com/analytics/web/provision/?authuser=0#/a138506675w199172252p193657157/admin
+ga_track_id: 'UA-138506675-1'            # Format: UA-xxxxxx-xx
 # ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 ga_domain: auto
 
