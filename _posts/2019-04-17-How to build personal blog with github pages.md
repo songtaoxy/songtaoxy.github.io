@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      Xcode命令行工具管理
-subtitle:   如何切换Xcode命令行工具
-date:       2018-05-05
-author:     BY
+title:      How to build personal blog with github pages
+subtitle:   Personal blog with github pages
+date:       2019-04-17
+author:     songtaoxy
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:
-    - Xcode
-    - iOS
+    - github pages
+    - Blog
 ---
 
 ## 概述
