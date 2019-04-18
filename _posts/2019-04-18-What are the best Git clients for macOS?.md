@@ -4,7 +4,7 @@ title:      What are the best Git clients for macOS?
 subtitle:   git client for macOS
 date:       2019-04-18
 author:     songtaoxy
-header-img: img/git-clietn.jpg
+header-img: img/git-client.jpg
 catalog: true
 tags:
     - git clietn
