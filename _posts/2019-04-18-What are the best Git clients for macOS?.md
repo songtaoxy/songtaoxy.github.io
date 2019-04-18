@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      解决“未找到相关的 Issues 进行评论，请联系xxx初始化创建”
-subtitle:   Gitalk 评论
+title:      What are the best Git clients for macOS?
+subtitle:   git client for macOS
 date:       2019-04-18
 author:     songtaoxy
-header-img: img/post-bg-coffee.jpeg
+header-img: img/git-clietn.jpg
 catalog: true
 tags:
     - github pages
