@@ -19,3 +19,6 @@ tags:
 
 ![Git clients for macOS on Slant]({{siet.baseurl}}/img/git-client.jpg)
 
+![Git clients for macOS on Slant](songtaoxy.github.io/img/git-client.jpg)
+
+
