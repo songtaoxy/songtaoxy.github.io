@@ -28,7 +28,7 @@ RSS: false
 zhihu_username:     tao song
 github_username:    songtaoxy
 facebook_username:  Song Tao
-jianshu_username:   e71990ada2fd
+jianshu_username:   5e6b1ce7277b
 #twitter_username:   qiubaiying
 
 
@@ -117,8 +117,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·st",
+        href: "https://www.jianshu.com/u/5e6b1ce7277b"
     },{
         title: "Apple",
         href: "https://apple.com"
