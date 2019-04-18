@@ -8,7 +8,7 @@ keyword: "st, st Blog, SongTao's Blog, SongTao, SongTao, iOS, Apple, iPhone"
 url: "https://songtaoxy.github.io"          # your host, for absolute URL
 
 # 插入图片时, 使用变量 比如 ![img_description]({{site.baseurl}}/img/...jpg).
-baseurl: "https://github.com/songtaoxy/songtaoxy.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://github.com/songtaoxy/songtaoxy.github.io/blob"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/songtaoxy/songtaoxy.github.io.git" # you code repository
 
 # Sidebar settings
