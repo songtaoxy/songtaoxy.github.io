@@ -17,5 +17,5 @@ tags:
 
 [click to see more details](https://www.slant.co/topics/465/~best-git-clients-for-macos)
 
-![Git clients for macOS on Slant]({{'img/git-client.jpg'| prepend: site.baseurl}})
+![Git clients for macOS on Slant]({{'../img/git-client.jpg'}})
 
