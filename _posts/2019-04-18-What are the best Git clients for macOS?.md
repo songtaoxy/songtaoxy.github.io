@@ -7,10 +7,10 @@ author:     songtaoxy
 header-img: img/git-clietn.jpg
 catalog: true
 tags:
-    - github pages
-    - issues
+    - git clietn
     - github
-    - init
+    - SmartGit
+    - macOS
 ---
 
 # What are the best Git clients for macOS?
