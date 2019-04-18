@@ -8,7 +8,7 @@ keyword: "st, st Blog, SongTao's Blog, SongTao, SongTao, iOS, Apple, iPhone"
 url: "https://songtaoxy.github.io"          # your host, for absolute URL
 
 
-# baseurl 使用默认值就行 "songtaoxy.github.io"
+# baseurl 使用默认值(也就是不用填写)就行 "songtaoxy.github.io"
 baseurl:       # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/songtaoxy/songtaoxy.github.io.git" # you code repository
 
