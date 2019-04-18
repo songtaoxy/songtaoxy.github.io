@@ -12,8 +12,8 @@ url: "https://songtaoxy.github.io"          # your host, for absolute URL
 baseurl:       # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/songtaoxy/songtaoxy.github.io.git" # you code repository
 
-# 插入图片时, 使用变量(jekyll 使用 liquid进行解析) 比如 ![img_description]({{site.baseurl}}/img/...jpg). or
-#  ![img_description](songtaoxy.github.io/img/...jpg)
+# 插入图片时, 要使用变量(jekyll 使用 liquid语法解析变量) 比如 ![img_description]({{site.baseurl}}/img/...jpg). or
+#  ![img_description](songtaoxy.github.io/img/...jpg) --- 这种方法试了不行. 网页不显示
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
